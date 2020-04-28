@@ -25,12 +25,25 @@ Temperature | - 40°C – 70°C | ± (0.4°C + 0.023 × (T [°C] – 25°C)) |
 
 ## Sensor Specifications:
 
-Measurement | Value |
------------ | ----- |
-Operating Voltage | 3.3V / 5V  |
-Operating Humidity | 10%～90%RH (non-condensing) |
-Temperature Temperature | -10～60℃ |
+Measurement | Value | Find Accuracy |
+----------- | ----- | ------------- |
+Operating Voltage | 3.3V / 5V  | - |
+Operating Humidity | 10%～90%RH (non-condensing) | - |
+Temperature Temperature | -10～60℃ | - |
 
 HM-3301 Dust Sensor is based on the Mie scattering theory. Light passes through particles with an amount equal to or greater than the wavelength of the light, light scattering forms.
 
 <img src="https://files.seeedstudio.com/wiki/Grove-Laser_PM2.5_Sensor-HM3301/img/principle.jpg" width="831" height="498">
+
+## Alphasense OPC-N3:
+
+<img src="https://www.isweek.com/statics/js/kindeditor-4.1.4/attached/image/20171128/20171128114058_27573.jpg" width="538" height="175">
+
+*Digital Interface: SPI
+
+## Sensor Specifications:
+
+Measurement | Range | 
+----------- | ----- | 
+Humidity | 0 to 95%RH (non-condensing) |
+Temperature | -10 to 50°C | 
