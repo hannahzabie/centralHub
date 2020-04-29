@@ -5,6 +5,7 @@
 <img src="https://raw.githubusercontent.com/SeeedDocument/Grove-CO2-Temperature-Humidity-Sensor-SCD30/master/img/pinout.jpg" width="799" height="547">
 
 *Size: 58x38x19mm
+
 *Interface: I2C
 
 ## Sensor Specifications:
@@ -20,7 +21,9 @@ Temperature | - 40°C – 70°C | ± (0.4°C + 0.023 × (T [°C] – 25°C)) |
 <img src="https://files.seeedstudio.com/wiki/Grove-Laser_PM2.5_Sensor-HM3301/img/pin_out.jpg">
 
 *Interface: I2C
+
 *Range: 1~500µg/ m3
+
 *Particle Size: 3 channels-- 2.5µm, 5µm, 10µm
 
 ## Sensor Specifications:
@@ -47,4 +50,20 @@ Measurement | Range |
 ----------- | ----- | 
 Humidity | 0 to 95%RH (non-condensing) |
 Temperature | -10 to 50°C | 
+
+## Humidity, Pressure, and Temperature Sensor BME280:
+
+<img src="https://cdn-shop.adafruit.com/1200x900/2652-03.jpg" width="779" height="584">
+
+*Size: 2.5 mm x 2.5 mm x 0.93 mm³
+
+*Interface: I²C and SPI
+
+## Sensor Specifications:
+
+Measurement | Range | Accuracy |
+----------- | ----- | -------- |
+Pressure | 300 - 1100 hPa| ±0.12hPa |
+Humidity | 0 %RH – 100 %RH | ± 3 %RH |
+Temperature | -40 - 85°C | ±1.0 -40°C - 65°C |
 
