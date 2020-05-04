@@ -28,11 +28,11 @@ Temperature | - 40°C – 70°C | ± (0.4°C + 0.023 × (T [°C] – 25°C)) |
 
 ## Sensor Specifications:
 
-Measurement | Value | Find Accuracy |
------------ | ----- | ------------- |
-Operating Voltage | 3.3V / 5V  | - |
-Operating Humidity | 10%～90%RH (non-condensing) | - |
-Temperature Temperature | -10～60℃ | - |
+Measurement | Value | 
+----------- | ----- | 
+Operating Voltage | 3.3V / 5V  |
+Operating Humidity | 10%～90%RH (non-condensing) |
+Temperature Temperature | -10～60℃ |
 
 HM-3301 Dust Sensor is based on the Mie scattering theory. Light passes through particles with an amount equal to or greater than the wavelength of the light, light scattering forms.
 
