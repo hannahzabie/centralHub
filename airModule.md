@@ -38,19 +38,23 @@ Operating Temperature | -10～60℃ |
 
 #### HM-3301 Dust Sensor is based on the Mie scattering theory. Light passes through particles with an amount equal to or greater than the wavelength of the light, light scattering forms.
 
-<img src="https://files.seeedstudio.com/wiki/Grove-Laser_PM2.5_Sensor-HM3301/img/principle.jpg" width="831" height="498">
+<img src="https://files.seeedstudio.com/wiki/Grove-Laser_PM2.5_Sensor-HM3301/img/principle.jpg" width="501" height="300">
 
 ## Alphasense OPC-N3:
 
-#### The OPC-N3 Sensor uses laser beams to identify particles 
+#### The OPC-N3 Sensor uses laser beams to identify particles..Measures up to 40µm for pollen.
 
-<img src="https://www.isweek.com/statics/js/kindeditor-4.1.4/attached/image/20171128/20171128114058_27573.jpg" width="538" height="175">
+<img src="https://airqualitynews.com/wp-content/uploads/2018/04/OPC-N3-sensor-768x599.jpg" width="395" height="308">
 
 *Digital Interface: SPI
 
 *Dimensions: 75mm x 60mm x 63.5mm
 
 ### Sensor Specifications:
+Measurement |       | 
+----------- | ----- | 
+Particle Range | 0.35 to 40µm |
+Max Particle Count Rate | 10,000 Particles/Second | 
 
 Measurement | Range | 
 ----------- | ----- | 
