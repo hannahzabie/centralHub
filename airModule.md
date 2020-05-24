@@ -63,7 +63,7 @@ Temperature | -10 to 50°C |
 
 ## Humidity, Pressure, and Temperature Sensor BME280:
 
-<img src="https://cdn-shop.adafruit.com/1200x900/2652-03.jpg" width="779" height="584">
+<img src="https://cdn-shop.adafruit.com/1200x900/2652-03.jpg" width="500" height="400">
 
 *Size: 2.5mm x 2.5mm x 0.93mm³
 
