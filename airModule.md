@@ -4,7 +4,7 @@
 
 #### The SCD30 Sensor is a versatile sensor that can measure C02, termperature, and humidity...Embedded with Sensirion SCD30 for C02 observation with Sensirion humidity and temperature sensors, which are on the same sensor module.
 
-<img src="https://raw.githubusercontent.com/SeeedDocument/Grove-CO2-Temperature-Humidity-Sensor-SCD30/master/img/pinout.jpg" width="799" height="547">
+<img src="https://raw.githubusercontent.com/SeeedDocument/Grove-CO2-Temperature-Humidity-Sensor-SCD30/master/img/pinout.jpg" width="700" height="500">
 
 *Size: 58mm x 38mm x 19mm
 
