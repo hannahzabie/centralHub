@@ -63,6 +63,8 @@ Temperature | -10 to 50°C |
 
 ## Humidity, Pressure, and Temperature Sensor BME280:
 
+#### The BME280 combines a pressure sensor, humidity sensor, and temperature sensor in one.
+
 <img src="https://cdn-shop.adafruit.com/1200x900/2652-03.jpg" width="500" height="400">
 
 *Size: 2.5mm x 2.5mm x 0.93mm³
@@ -77,3 +79,41 @@ Pressure | 300 - 1100 hPa| ±0.12hPa |
 Humidity | 0 %RH – 100 %RH | ± 3 %RH |
 Temperature | -40 - 85°C | ±1.0 -40°C - 65°C |
 
+## Grove – Multichannel Gas Sensor (MGS001:)
+
+#### Gas detecting sensor with a built in MiCS-6814 that allows three gases to be measured concurrently, on account of its multi-channels. 
+
+<img src="https://files.seeedstudio.com/wiki/Grove-Multichannel_Gas_Sensor/img/Multi_sensor1.png" width="530" height="315">
+
+*Interface: I²C
+
+### Sensor Specifications:
+
+Detectable Gases | Range |                                  
+----------- | ----- | 
+Carbon monoxide CO | 1 – 1000ppm|
+Nitrogen dioxide NO<sub>2</sub> | 0.05 – 10ppm |
+Ethanol C<sub>2</sub>H<sub>5</sub>OH  | 10 – 500ppm | 
+Hydrogen H<sub>2</sub> | 1 – 1000ppm |
+Ammonia NH<sub>3</sub> | 1 – 500ppm |
+Methane CH<sub>4</sub> | >1000ppm | 
+Propane C<sub>3</sub>H<sub>8</sub> | >1000ppm |
+Iso-butane C<sub>4</sub>H<sub>10</sub> | >1000ppm | 
+
+Red Sensor | Range |                
+----------- | ----- |                 
+Sensing resistance in air | 100-1500kΩ|            
+Typical CO detection range | 1-1000ppm |
+Sensitivity factor	 | 1.2-50 |
+
+OX Sensor | Range |                
+----------- | ----- |                 
+Sensing resistance in air | .8-20kΩ |            
+Typical NO<sub>2</sub> detection range | 0.05-10ppm |
+Sensitivity factor	 | 2 |
+
+NH3 Sensor | Range |                
+----------- | ----- |                 
+Sensing resistance in air | 10-1500kΩ|            
+Typical NH<sub>3</sub> detection range | 1-300ppm |
+Sensitivity factor	 | 1.5-15 |
