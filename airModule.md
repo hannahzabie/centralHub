@@ -105,18 +105,18 @@ Iso-butane C<sub>4</sub>H<sub>10</sub> | >1000ppm |
 
 Red Sensor | Range |                
 ----------- | ----- |                 
-Sensing resistance in air | 100-1500kΩ|            
-Typical CO detection range | 1-1000ppm |
-Sensitivity factor	 | 1.2-50 |
+Sensing Resistance in Air | 100-1500kΩ|            
+Typical CO Detection Range | 1-1000ppm |
+Sensitivity Factor	 | 1.2-50 |
 
 OX Sensor | Range |                
 ----------- | ----- |                 
-Sensing resistance in air | .8-20kΩ |            
-Typical NO<sub>2</sub> detection range | 0.05-10ppm |
-Sensitivity factor	 | 2 |
+Sensing Resistance in Air | .8-20kΩ |            
+Typical NO<sub>2</sub> Detection Range | 0.05-10ppm |
+Sensitivity Factor	 | 2 |
 
 NH3 Sensor | Range |                
 ----------- | ----- |                 
-Sensing resistance in air | 10-1500kΩ|            
-Typical NH<sub>3</sub> detection range | 1-300ppm |
-Sensitivity factor	 | 1.5-15 |
+Sensing Resistance in Air | 10-1500kΩ|            
+Typical NH<sub>3</sub> Detection Range | 1-300ppm |
+Sensitivity Factor	 | 1.5-15 |
