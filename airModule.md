@@ -1,6 +1,8 @@
 # Matter Sensors:
 
-## CO2 & Temperature & Humidity Sensor (SCD30:)
+## CO2, Temperature, & Humidity Sensor (SCD30:)
+
+#### The SCD30 Sensor is a versatile sensor that can measure C02, termperature, and humidity...
 
 <img src="https://raw.githubusercontent.com/SeeedDocument/Grove-CO2-Temperature-Humidity-Sensor-SCD30/master/img/pinout.jpg" width="799" height="547">
 
@@ -8,7 +10,7 @@
 
 *Interface: I2C
 
-## Sensor Specifications:
+### Sensor Specifications:
 
 Measurement | Range | Accuracy |
 ----------- | ----- | -------- |
@@ -26,7 +28,7 @@ Temperature | - 40°C – 70°C | ± (0.4°C + 0.023 × (T [°C] – 25°C)) |
 
 *Particle Size: 3 channels-- 2.5µm, 5µm, 10µm
 
-## Sensor Specifications:
+### Sensor Specifications:
 
 Measurement | Value | 
 ----------- | ----- | 
@@ -34,7 +36,7 @@ Operating Voltage | 3.3V / 5V  |
 Operating Humidity | 10%～90%RH (non-condensing) |
 Temperature Temperature | -10～60℃ |
 
-HM-3301 Dust Sensor is based on the Mie scattering theory. Light passes through particles with an amount equal to or greater than the wavelength of the light, light scattering forms.
+#### HM-3301 Dust Sensor is based on the Mie scattering theory. Light passes through particles with an amount equal to or greater than the wavelength of the light, light scattering forms.
 
 <img src="https://files.seeedstudio.com/wiki/Grove-Laser_PM2.5_Sensor-HM3301/img/principle.jpg" width="831" height="498">
 
@@ -44,7 +46,7 @@ HM-3301 Dust Sensor is based on the Mie scattering theory. Light passes through 
 
 *Digital Interface: SPI
 
-## Sensor Specifications:
+### Sensor Specifications:
 
 Measurement | Range | 
 ----------- | ----- | 
