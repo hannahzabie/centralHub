@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/SeeedDocument/Grove-CO2-Temperature-Humidity-Sensor-SCD30/master/img/pinout.jpg" width="799" height="547">
 
-*Size: 58x38x19mm
+*Size: 58mm x 38mm x 19mm
 
 *Interface: I2C
 
@@ -24,7 +24,7 @@ Temperature | - 40°C – 70°C | ± (0.4°C + 0.023 × (T [°C] – 25°C)) |
 
 *Interface: I2C
 
-*Range: 1~500µg/ m3
+*Range: 1~500µg/ m3 (Effective Range)
 
 *Particle Size: 3 channels-- 2.5µm, 5µm, 10µm
 
@@ -34,7 +34,7 @@ Measurement | Value |
 ----------- | ----- | 
 Operating Voltage | 3.3V / 5V  |
 Operating Humidity | 10%～90%RH (non-condensing) |
-Temperature Temperature | -10～60℃ |
+Operating Temperature | -10～60℃ |
 
 #### HM-3301 Dust Sensor is based on the Mie scattering theory. Light passes through particles with an amount equal to or greater than the wavelength of the light, light scattering forms.
 
@@ -42,9 +42,13 @@ Temperature Temperature | -10～60℃ |
 
 ## Alphasense OPC-N3:
 
+#### The OPC-N3 Sensor uses laser beams to identify particles 
+
 <img src="https://www.isweek.com/statics/js/kindeditor-4.1.4/attached/image/20171128/20171128114058_27573.jpg" width="538" height="175">
 
 *Digital Interface: SPI
+
+*Dimensions: 75mm x 60mm x 63.5mm
 
 ### Sensor Specifications:
 
@@ -57,11 +61,11 @@ Temperature | -10 to 50°C |
 
 <img src="https://cdn-shop.adafruit.com/1200x900/2652-03.jpg" width="779" height="584">
 
-*Size: 2.5 mm x 2.5 mm x 0.93 mm³
+*Size: 2.5mm x 2.5mm x 0.93mm³
 
 *Interface: I²C and SPI
 
-## Sensor Specifications:
+### Sensor Specifications:
 
 Measurement | Range | Accuracy |
 ----------- | ----- | -------- |
