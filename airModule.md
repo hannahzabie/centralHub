@@ -20,6 +20,8 @@ Temperature | - 40°C – 70°C | ± (0.4°C + 0.023 × (T [°C] – 25°C)) |
 
 ## HM3301 Dust Sensor:
 
+#### The HM3301 is a laser dust detection sensor.
+
 <img src="https://files.seeedstudio.com/wiki/Grove-Laser_PM2.5_Sensor-HM3301/img/pin_out.jpg">
 
 *Interface: I2C
