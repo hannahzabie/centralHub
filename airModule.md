@@ -37,6 +37,7 @@ Operating Humidity | 10%～90%RH (non-condensing) |
 Operating Temperature | -10～60℃ |
 
 #### HM-3301 Dust Sensor is based on the Mie scattering theory. Light passes through particles with an amount equal to or greater than the wavelength of the light, light scattering forms.
+#### Scattered light -> photodiode -> photodiode is amplified and analyzed by a circuit -> concentrations of the dust particles are aquired
 
 <img src="https://files.seeedstudio.com/wiki/Grove-Laser_PM2.5_Sensor-HM3301/img/principle.jpg" width="501" height="300">
 
